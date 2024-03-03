@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\bin\Debug\net8.0\CurrencyExchangeApp.exe
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\bin\Debug\net8.0\CurrencyExchangeApp.deps.json
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\bin\Debug\net8.0\CurrencyExchangeApp.runtimeconfig.json
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\bin\Debug\net8.0\CurrencyExchangeApp.dll
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\bin\Debug\net8.0\CurrencyExchangeApp.pdb
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.sourcelink.json
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.dll
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\refint\CurrencyExchangeApp.dll
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.pdb
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\CurrencyExchangeApp.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\CurrencyExchangeApp\CurrencyExchangeApp\obj\Debug\net8.0\ref\CurrencyExchangeApp.dll
